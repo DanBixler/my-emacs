@@ -1,0 +1,1 @@
+This is my current Emacs configuration. The idea came mostly from the book Clojure for the Brave and True by Daniel Higginbotham. I liked his config and decided to go with that since it made sense. I am also learning more about Emacs from David Wilson's Youtube channel, System Crafters. So, over time, I'll probably make some more changes to this as I learn more.
